@@ -1,0 +1,2 @@
+# mysql_secure_installation
+自动执行mysql_secure_installation的配置（不设置密码）
